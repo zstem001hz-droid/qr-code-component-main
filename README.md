@@ -36,7 +36,7 @@ I learned the flexbox x and y axis vales that populate boxes onto the webpage ac
 
 ### AI Collaboration
 
-ChatGBT was used to establish some flexbox properties, including line-height and padding for the .card h1 and .card p classes, and debugging code. 
+ChatGPT was used to establish some flexbox properties, including line-height and padding for the .card h1 and .card p classes, and debugging code. 
 
 ## Author
 
